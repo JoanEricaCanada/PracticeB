@@ -1,1 +1,2 @@
 This is user A.
+This is user B.
